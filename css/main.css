@@ -1,0 +1,24 @@
+h1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+  color: pink;
+}
+.icon {
+color: orange;
+margin-right: 15px;
+height: auto;
+background-color: blue;
+}
+/*.icon-pencil {
+  color: green;
+  margin-right: 13px;
+}
+*/
+p {
+  font-family: 'Muli', sans-serif;
+}
+
+.gato1 {
+  witdh:128px;
+  background: url('../assets/images/css_sprites')
+}
